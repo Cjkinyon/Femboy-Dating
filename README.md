@@ -31,13 +31,17 @@ This app allows Femboys to find love or single men / women who are looking to fi
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* 
+* Users can swipe left/right on users they like
+* Users can login
+* User can create an account
+* User can chat with another user they match with
+* User can view who they match with
+* User can creat a custom profile to attract users
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Users can filter who shows up on main feed
+* Users can edit their username
 
 ### 2. Screen Archetypes
 
