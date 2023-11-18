@@ -164,6 +164,7 @@ Challenges faced:
 GIF:
 
 First GIF is "Tab Bar Nav" 2nd GIF is "Login page" 3rd GIF is "Register page"
+
 <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ae757ce2cb944271a5752064ac0180a0-with-play.gif"> 
 
 <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/42e451e0577744a0bfb48f78367df5e4-with-play.gif"> 
