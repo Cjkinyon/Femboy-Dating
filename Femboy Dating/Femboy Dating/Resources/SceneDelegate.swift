@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Femboy Dating
 //
-//  Created by Christian Kinyon on 11/10/23.
+//  Created by Christian Kinyon on 11/16/23.
 //
 
 import UIKit
@@ -49,4 +49,3 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
 
 }
-
