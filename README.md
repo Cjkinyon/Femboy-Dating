@@ -160,3 +160,6 @@ The following features are completed:
 Challenges faced:
 - Login/Register page only shows up on two tabs not the whole entire app.
 - Could not figure out how to add a swipe feature like tinder.
+
+GIF:
+.
