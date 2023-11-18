@@ -162,4 +162,12 @@ Challenges faced:
 - Could not figure out how to add a swipe feature like tinder.
 
 GIF:
-.
+
+Tab Bar Navigation:
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ae757ce2cb944271a5752064ac0180a0-with-play.gif"> 
+
+Login Page
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/42e451e0577744a0bfb48f78367df5e4-with-play.gif"> 
+
+Register Page
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/874e15e9ce75457bbcb0cb9a59d49af3-with-play.gif">
