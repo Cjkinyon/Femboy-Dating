@@ -1,8 +1,8 @@
 //
 //  Extensions.swift
-//  PridePals
+//  Femboy Dating
 //
-//  Created by Christian Kinyon on 10/28/23.
+//  Created by Christian Kinyon on 11/17/23.
 //
 
 import Foundation
