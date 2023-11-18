@@ -158,5 +158,5 @@ The following features are completed:
 - [x] Tab bar
 
 Challenges faced:
-    * Login/Register page only shows up on two tabs not the whole entire app.
-    * Could not figure out how to add a swipe feature like tinder.
+* => Login/Register page only shows up on two tabs not the whole entire app.
+* => Could not figure out how to add a swipe feature like tinder.
