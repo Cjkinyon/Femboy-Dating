@@ -58,7 +58,7 @@
         <!--Home-->
         <scene sceneID="IAh-hd-j7T">
             <objects>
-                <viewController id="S2b-in-IC7" sceneMemberID="viewController">
+                <viewController id="S2b-in-IC7" customClass="SwipeViewController" customModule="Femboy_Dating" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="mXT-1R-MiT">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -74,7 +74,7 @@
         <!--Matches-->
         <scene sceneID="MQN-rK-VjS">
             <objects>
-                <viewController id="En9-4w-A7G" sceneMemberID="viewController">
+                <viewController id="En9-4w-A7G" customClass="MatchesViewController" customModule="Femboy_Dating" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="JZL-IK-1ok">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
