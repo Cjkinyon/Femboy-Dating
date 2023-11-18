@@ -9,6 +9,7 @@ Original App Design Project - README Template
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
 4. [Schema](#Schema)
+5. [Sprints](#Sprints)
 
 ## Overview
 
@@ -118,3 +119,30 @@ This app allows Femboys to find love or single men / women who are looking to fi
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+## Sprints
+
+### Sprint 1
+
+The following REQUIRED features are completed:
+
+[x] Creation of GitHub Repo
+[x] Invited CodePath to GitHub
+  
+The following REQUIRED files are included:
+
+[x] Included 📄 brainstorming.md, which contains:
+    [x] Favorite existing apps
+    [x] New app ideas (6+ ideas)
+    [x] Top 3 app ideas
+    [x] 5-category evaluation of top 3 ideas
+    [x] Final app idea chosen
+[x] Included 📄 README.md, which contains:
+    [x] App Overview: Description and evaluation
+    [x] Product Spec: User Stories, Screen Archetypes, Navigation
+    [x] Wireframe image(s)
+
+The following BONUS features are implemented:
+
+[] Added digital wireframe/mockup image(s)
+[] Added a Video/GIF of an interactive prototype
