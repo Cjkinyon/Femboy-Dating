@@ -146,3 +146,17 @@ The following BONUS features are implemented:
 
 - [ ] Added digital wireframe/mockup image(s)
 - [ ] Added a Video/GIF of an interactive prototype
+
+### Sprint 2
+
+The following features are completed:
+
+- [x] Login page UI
+- [x] Register page UI
+- [x] User can login
+- [x] User can register
+- [x] Tab bar
+
+Challenges faced:
+    - Login/Register page only shows up on two tabs not the whole entire app.
+    - Could not figure out how to add a swipe feature like tinder.
